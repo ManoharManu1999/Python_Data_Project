@@ -1,4 +1,4 @@
-![Banner_Image](images/banner.png)
+![Banner_Image](Project/images/banner.png)
 
 # 📊 Data Analyst Job Market Analysis (US)
 
