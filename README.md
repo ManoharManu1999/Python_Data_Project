@@ -1,4 +1,4 @@
-![Banner_Image](Project/images/banner.png)
+![BannerImage](project/Images/banner.png)
 
 # 📊 Data Analyst Job Market Analysis (US)
 
@@ -88,6 +88,8 @@ Python_Data_Project/
 | **3_Skills_Trend** | Analyzes how skill demand evolved throughout 2023 |
 | **4_Salary_Analysis** | Compares salary distributions and compensation trends |
 | **5_Optimal_Skills** | Creates skill matrix combining demand and salary metrics |
+
+---
 
 ## 🧹 Data Preparation
 
