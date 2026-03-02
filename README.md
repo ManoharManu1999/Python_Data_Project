@@ -249,3 +249,8 @@ Beyond technical analysis, this work reflects structured problem-solving, busine
 ## 📬 Connect With Me
 
 If you're hiring for Data Analyst, Business Analyst, or SQL-focused roles, I’d love to connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohark1999)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharmanu.k1999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoharManu1999)
+
