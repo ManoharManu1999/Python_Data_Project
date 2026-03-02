@@ -129,7 +129,7 @@ Analyzed top 3 most popular roles:
 
 📌 Core tools drive employability; specialization differentiates roles.
 
-![Likelihood of Skills Requested](Images/Likelihood_of_Skills_Requested_in_US_Job_Postings.png)
+![Likelihood of Skills Requested](assets/Likelihood_of_Skills_Requested_in_US_Job_Postings.png)
 
 ---
 
@@ -145,7 +145,7 @@ Evaluated monthly demand trends.
 
 📌 Foundational tools remain stable; visualization skills are gaining traction.
 
-![Trending Skills](Images/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)
+![Trending Skills](assets/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)
 
 ---
 
@@ -165,7 +165,7 @@ Compared salary ranges for:
 
 📌 Technical depth and experience significantly influence salary growth.
 
-![Salary Distribution](Images/Salary_Distributions_of_Data_Jobs_in_the_US.png)
+![Salary Distribution](assets/Salary_Distributions_of_Data_Jobs_in_the_US.png)
 
 ---
 
@@ -182,7 +182,7 @@ Compared:
 
 📌 Employability comes from foundational skills; salary growth comes from specialization.
 
-![Highest Paid and In-Demand Skills](Images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![Highest Paid and In-Demand Skills](assets/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
 
 ---
 
@@ -199,10 +199,10 @@ Combined skill demand % with median salary to identify “high-value” skills.
 
 📌 Programming + Database + Visualization offers the strongest balance of job security and salary potential.
 
-![Most Optimal Skills](Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)
+![Most Optimal Skills](assets/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)
 
 
-![Most Optimal Skills with Technology Coloring](Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
+![Most Optimal Skills with Technology Coloring](assets/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
 
 ---
 
