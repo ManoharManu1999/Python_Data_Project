@@ -1,4 +1,4 @@
-![BannerImage](project/Images/banner.png)
+![BannerImage](assets/banner.png)
 
 # 📊 Data Analyst Job Market Analysis (US)
 
@@ -65,18 +65,22 @@ This analysis provides data-driven guidance for:
 ## 📂 Repository Structure
 
 ```
-Python_Data_Project/
+python-data-job-market-analysis-project/
 │
-├── Analysis/ → Practice notebooks (Pandas & Visualization exercises)
+├── README.md
+├── assets/
+│   ├── banner.png
+│   ├── salary_distribution.png
+│   └── ...
 │
-└── Project/
-├── README.md → Project documentation
-├── 1_EDA_Intro.ipynb → Initial data exploration
-├── 2_Skill_Demand.ipynb → Skill demand analysis by role
-├── 3_Skills_Trend.ipynb → Monthly skill trend analysis
-├── 4_Salary_Analysis.ipynb→ Salary distribution & comparison
-├── 5_Optimal_Skills.ipynb → High-demand & high-salary analysis
-└── Images/ → Visualizations used in report
+├── notebooks/
+│   ├── practice-notebooks...
+│
+├── 1_EDA_Intro.ipynb
+├── 2_Skill_Demand.ipynb
+├── 3_Skills_Trend.ipynb
+├── 4_Salary_Analysis.ipynb
+└── 5_Optimal_Skills.ipynb
 ```
 
 ### 📖 Notebook Guide
